@@ -1,4 +1,4 @@
-# 🔐 Préparation Intensive - Master MSI 2027/2028
+# 🔐 Préparation - Master MSI 2027/2028
 
 ## 🎯 Objectif
 Ce dépôt documente ma préparation technique pour le MSI de Sorbonne Université.
