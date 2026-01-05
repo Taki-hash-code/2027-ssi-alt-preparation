@@ -11,5 +11,10 @@ Ce dépôt documente ma préparation technique pour le MSI de Sorbonne Universit
 - Heures de Pratique: 4
 - Certfications: 0
 
+## Mon enterprise
+Pour ma candidature à la Sorbonne Université, j’ai créé ma propre entreprise qui s’appelle SakTech sur le plan commercial, mais de manière technique c’est S.A.K.Tech car ces lettres ont une signification précise : S pour Security, A pour Audit, K pour Know et Tech pour Technology en anglais. S.A.K. est le protocole que j’ai créé pour offrir des solutions innovantes et dynamiques à différentes entreprises qui peuvent avoir besoin de résoudre des problèmes techniques tels que des vulnérabilités ou des malwares de tout type, et pour offrir la qualité et la meilleure expérience.
+
+- Ma page web:
+
 ---
 *Début: 12 diciembre 2025*
