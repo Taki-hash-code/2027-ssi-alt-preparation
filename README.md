@@ -6,9 +6,9 @@ Ce dépôt documente ma préparation technique pour le MSI de Sorbonne Universit
 **Statut:** En préparation active | **Candidature:** 2027
 
 ## 📊 Métriques
-- CTFs Résolus: 0/100
-- Projets Originaux: 0/3
-- Heures de Pratique: 4
+- CTFs Résolus: 14/100
+- Projets Originaux: 1/3
+- Heures de Pratique: 10
 - Certfications: 0
 
 ## Mon enterprise
