@@ -8,7 +8,7 @@ Ce dépôt documente ma préparation technique pour le MSI de Sorbonne Universit
 ## 📊 Métriques
 - CTFs Résolus: 14/100
 - Projets Originaux: 1/3
-- Heures de Pratique: 10
+- Heures de Pratique: 15
 - Certfications: 0
 
 ## Mon enterprise
